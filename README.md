@@ -1,2 +1,2 @@
 # hello-world
-Learning wtf Git is
+Learning wtf Git branches are
